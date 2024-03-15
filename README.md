@@ -24,12 +24,9 @@
 
 ## GitHub Stats
 
-<a href="https://github.com/EduardaReis3332/EduardaReis3332">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=EduardaReis3332&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&hide_title=true&hide=stars&card_width=100px" />
-</a>
-<a href="https://github.com/EduardaReis3332/EduardaReis3332">
-  <img height=250 align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=EduardaReis3332&layout=donut&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF&langs_count=8&card_width=320" />
-</a>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EduardaReis3332&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&hide_title=true&hide=stars)
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=EduardaReis3332&layout=donut&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF&langs_count=6)
 
 ## Minhas Contribuições
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=EduardaReis3332&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/EduardaReis3332/dio-lab-open-source)
