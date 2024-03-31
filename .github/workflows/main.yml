@@ -14,12 +14,12 @@ jobs:
       - uses: actions/checkout@v2
       
       # Snake Animation
-      - uses: Platane/snk@master
+      - uses: EduardaReis3332/snk@master
         id: snake-gif
         with:
-          github_user_name: EduardaReis3332
-          gif_out_path: dist/github-contribution-grid-snake.gif
-          svg_out_path: dist/github-contribution-grid-snake.svg
+          github_user_name: ${{ github.repository_owner }}
+          gif_out_path: dist/github-contribution-grid-snake2.gif
+          svg_out_path: dist/github-contribution-grid-snake2.svg
       
       - run: git status
 
