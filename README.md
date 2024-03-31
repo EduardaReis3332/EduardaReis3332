@@ -23,6 +23,5 @@
 
 ## Minhas Contribuições
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=EduardaReis3332&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/EduardaReis3332/dio-lab-open-source)
-
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=PROZ-AWS&repo=Saber_financeiro&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/PROZ-AWS/Saber_financeiro)
 
