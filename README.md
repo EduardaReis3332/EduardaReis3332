@@ -1,5 +1,7 @@
 # Eduarda Reis
 
+![Snake animation](https://github.com/EduardaReis3332/EduardaReis3332/blob/output/github-contribution-grid-snake.svg)
+
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardaoliveira3332/)
 
